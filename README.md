@@ -7,7 +7,7 @@ By leveraging CNNs, which are well-suited for capturing spatial relationships in
 
 **CNN Architecture:** Implement a CNN architecture optimized for text classification tasks, consisting of convolutional layers followed by max-pooling layers to extract relevant features from word embeddings.
 **Word Embeddings:** Utilize pre-trained word embedding models such as Word2Vec or GloVe to represent words as dense vectors, capturing semantic relationships and contextual information.
-**Resume Classification:** Train the CNN model on a labeled dataset of resumes, with each resume belonging to a specific category or class (e.g., "Engineering", "Marketing", "Finance"). Evaluate the model's performance on unseen data using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score.
+**Resume Classification:** Train the CNN model on a labeled dataset of resumes, with each resume belonging to a specific category or class. Evaluate the model's performance on unseen data using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score.
 **Model Interpretability:** Explore methods for interpreting the CNN model's predictions, including visualization techniques to understand which parts of the resumes are most influential in classification decisions.
 
 ### Requirements:
